@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Timer-App/static/css/main.76989d40.chunk.css",
+    "main.js": "/React-Timer-App/static/js/main.b57fb8a1.chunk.js",
+    "main.js.map": "/React-Timer-App/static/js/main.b57fb8a1.chunk.js.map",
+    "runtime-main.js": "/React-Timer-App/static/js/runtime-main.d8f4eeb8.js",
+    "runtime-main.js.map": "/React-Timer-App/static/js/runtime-main.d8f4eeb8.js.map",
+    "static/js/2.bdec8a69.chunk.js": "/React-Timer-App/static/js/2.bdec8a69.chunk.js",
+    "static/js/2.bdec8a69.chunk.js.map": "/React-Timer-App/static/js/2.bdec8a69.chunk.js.map",
+    "index.html": "/React-Timer-App/index.html",
+    "precache-manifest.1e682203de4022a4d3c2cb66c2f3609d.js": "/React-Timer-App/precache-manifest.1e682203de4022a4d3c2cb66c2f3609d.js",
+    "service-worker.js": "/React-Timer-App/service-worker.js",
+    "static/css/main.76989d40.chunk.css.map": "/React-Timer-App/static/css/main.76989d40.chunk.css.map"
+  }
+}
